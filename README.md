@@ -9,12 +9,12 @@ From here forwards the client will send the password with every request and the 
 
 So the final architecture looks like this:
 
-    Server 
-    ^   ^
-   (client math problem)
-   /     \
-  /       \   
- client   client
+            Server 
+            ^   ^
+    (client math problem)
+           /     \
+          /       \   
+       client   client
 
  
  Instructions to run:
